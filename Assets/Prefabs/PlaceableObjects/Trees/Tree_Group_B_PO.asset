@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Tree_Group_B_PO
+  m_EditorClassIdentifier: 
+  objectType: 1
+  prefabs:
+  - {fileID: 1199345717029940, guid: 145a7b31380ed7747964b97d3c3ca0f1, type: 3}
+  - {fileID: 1076142668606550, guid: 9331158edece6e74791b377166268f75, type: 3}
+  - {fileID: 1763116055048176, guid: 490012ef63a209140824f0fca9da25e4, type: 3}
+  - {fileID: 1497234038987648, guid: b7419e9fe17d4414ea630c0af3428cb2, type: 3}
+  - {fileID: 1135244782489938, guid: d6fcd4868a5e48d4dad8e05d335bbd2c, type: 3}
+  - {fileID: 1822378122421090, guid: 7ba5af7732d7f9e40a705bab38925d70, type: 3}
+  - {fileID: 1059439067990192, guid: 4753f1f8ff349814bbfeb29752c93b00, type: 3}
+  - {fileID: 1406033647311854, guid: 633914cc3ef3767419793d24ce108eb1, type: 3}
+  - {fileID: 1107579865505408, guid: 4809f4403d47cd34d91f20a87eb795e5, type: 3}
+  - {fileID: 1146539439171282, guid: 42321663c4e50c645912607ba531122d, type: 3}
+  - {fileID: 1613873088973268, guid: 5a22fb908d6c0514cad59941a2b8d946, type: 3}
+  - {fileID: 1719788538400428, guid: e4c0aedbb42331b4eb414ecc7d34b75d, type: 3}
+  - {fileID: 1014089588395356, guid: de249ac033c3b0d44aa06c9e8dcc3f24, type: 3}
+  minScale: 0.1
+  maxScale: 0.6
+  isStatic: 1
+  seed: 116
+  cellSize: 15
+  randomOffset: 49.7
+  yOffset: 0
+  useSurfaceNormal: 0
+  objectCluster: 0
+  minSlope: 0
+  maxSlope: 35
+  minHeight: 0
+  maxHeight: 0.487
+  tagMask: Terrain
+  noiseScale: 3.01
+  minNoiseStrength: 0.657
+  noiseMultiplier: 1.5
+  useInverseNoise: 0

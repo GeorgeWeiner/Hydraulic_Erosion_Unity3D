@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Trees_All_PO
+  m_EditorClassIdentifier: 
+  objectType: 1
+  prefabs:
+  - {fileID: 1146539439171282, guid: 42321663c4e50c645912607ba531122d, type: 3}
+  - {fileID: 1613873088973268, guid: 5a22fb908d6c0514cad59941a2b8d946, type: 3}
+  - {fileID: 1719788538400428, guid: e4c0aedbb42331b4eb414ecc7d34b75d, type: 3}
+  - {fileID: 1014089588395356, guid: de249ac033c3b0d44aa06c9e8dcc3f24, type: 3}
+  - {fileID: 1303392628617352, guid: f888c5b7025e02b4d9aa7f50fbb888d0, type: 3}
+  - {fileID: 1376624775182700, guid: d1d55861e9a3ea1449cc4c337f6a616b, type: 3}
+  - {fileID: 1141640452475256, guid: 9bac4468738254f4db7a6536f95bcc90, type: 3}
+  - {fileID: 1068716186686636, guid: d268a7efe24c71145b056af5bb11dab4, type: 3}
+  - {fileID: 1777431822971076, guid: df0f1c80a64680c409cd660babc771b2, type: 3}
+  - {fileID: 1026303050582030, guid: 4af77fcbcb0d9e04f967f9331bf6d774, type: 3}
+  - {fileID: 1735662199934060, guid: bddcc6f574284944dba97385c1b9bd60, type: 3}
+  - {fileID: 1500175148112306, guid: 805bfc095743f6841ad149d3784f5a36, type: 3}
+  - {fileID: 1782450506871990, guid: a67afcb92ab28904b9a27fa41a3add95, type: 3}
+  - {fileID: 1199345717029940, guid: 145a7b31380ed7747964b97d3c3ca0f1, type: 3}
+  - {fileID: 1076142668606550, guid: 9331158edece6e74791b377166268f75, type: 3}
+  - {fileID: 1763116055048176, guid: 490012ef63a209140824f0fca9da25e4, type: 3}
+  - {fileID: 1497234038987648, guid: b7419e9fe17d4414ea630c0af3428cb2, type: 3}
+  - {fileID: 1135244782489938, guid: d6fcd4868a5e48d4dad8e05d335bbd2c, type: 3}
+  - {fileID: 1822378122421090, guid: 7ba5af7732d7f9e40a705bab38925d70, type: 3}
+  - {fileID: 1059439067990192, guid: 4753f1f8ff349814bbfeb29752c93b00, type: 3}
+  - {fileID: 1406033647311854, guid: 633914cc3ef3767419793d24ce108eb1, type: 3}
+  - {fileID: 1107579865505408, guid: 4809f4403d47cd34d91f20a87eb795e5, type: 3}
+  - {fileID: 1022070395406732, guid: 480bceb9cafea034c8e05b431e33f0df, type: 3}
+  - {fileID: 1698478162193560, guid: 8f02df739b9bd0c43879be9539ea9517, type: 3}
+  - {fileID: 1281981321586144, guid: 79b59000f73a61f429d7040b454702c8, type: 3}
+  - {fileID: 1701236400512966, guid: 83e222183ffbcb545b302ee30e0716c1, type: 3}
+  - {fileID: 1807927578463326, guid: 1b19878aba3973b40b338d1edd5f81de, type: 3}
+  - {fileID: 1797831505333334, guid: 37553377f94fe1a4f9ba8e946874e984, type: 3}
+  - {fileID: 1583895712891168, guid: 38247a2e65caaf44c89e4502d24dbc1a, type: 3}
+  - {fileID: 1173533551920854, guid: 980c13404f101eb4485d631dc900d0d6, type: 3}
+  - {fileID: 1612141577258546, guid: e13dbbfc210a4304796ba45ad1781da3, type: 3}
+  - {fileID: 1984646113279384, guid: 83aa819179d4e7e4c9bf5677e3a061c0, type: 3}
+  - {fileID: 1784932983203808, guid: dcd8ce58fbb38134096e9fa0de730e8f, type: 3}
+  - {fileID: 1419834445128670, guid: 97227e3152e1fb847b9dc1e10f744440, type: 3}
+  - {fileID: 1045435402852968, guid: 118d35aa2bce5504ea198474b10dd70a, type: 3}
+  minScale: 0.5
+  maxScale: 2
+  isStatic: 1
+  seed: 211
+  cellSize: 70
+  randomOffset: 49.7
+  minSlope: 0
+  maxSlope: 45
+  minHeight: 0.5
+  maxHeight: 0.6
+  tagMask: Terrain
+  useNoise: 1
+  noiseScale: 1.5
+  minNoiseStrength: 0.311
+  noiseMultiplier: 1

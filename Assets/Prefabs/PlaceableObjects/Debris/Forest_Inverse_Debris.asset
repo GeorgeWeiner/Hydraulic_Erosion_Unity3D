@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Forest_Inverse_Debris
+  m_EditorClassIdentifier: 
+  objectType: 0
+  prefabs:
+  - {fileID: 1971157842351540, guid: 16bb3a2c4257a4c419755e4b20faa4d4, type: 3}
+  - {fileID: 1298529831286938, guid: 850befecccd553b4e97c64bae868e01a, type: 3}
+  - {fileID: 3388195557441193065, guid: fb8df2de962eca4488c3d86bcdda61b8, type: 3}
+  - {fileID: 1354803873238240, guid: e55b52028cff0ad4e84b2535faa2c40d, type: 3}
+  minScale: 0.5
+  maxScale: 1
+  isStatic: 1
+  seed: 43
+  cellSize: 10
+  randomOffset: 61.9
+  yOffset: 1
+  useSurfaceNormal: 1
+  objectCluster: 1
+  minSlope: 0
+  maxSlope: 15
+  minHeight: 0.264
+  maxHeight: 0.55
+  tagMask: Terrain
+  noiseScale: 3.01
+  minNoiseStrength: 0.507
+  noiseMultiplier: 1
+  useInverseNoise: 1

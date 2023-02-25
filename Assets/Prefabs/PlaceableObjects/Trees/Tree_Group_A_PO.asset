@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Tree_Group_A_PO
+  m_EditorClassIdentifier: 
+  objectType: 1
+  prefabs:
+  - {fileID: 1068716186686636, guid: d268a7efe24c71145b056af5bb11dab4, type: 3}
+  - {fileID: 1777431822971076, guid: df0f1c80a64680c409cd660babc771b2, type: 3}
+  - {fileID: 1026303050582030, guid: 4af77fcbcb0d9e04f967f9331bf6d774, type: 3}
+  - {fileID: 1735662199934060, guid: bddcc6f574284944dba97385c1b9bd60, type: 3}
+  - {fileID: 1500175148112306, guid: 805bfc095743f6841ad149d3784f5a36, type: 3}
+  - {fileID: 1782450506871990, guid: a67afcb92ab28904b9a27fa41a3add95, type: 3}
+  minScale: 0.5
+  maxScale: 1
+  isStatic: 1
+  seed: 52
+  cellSize: 20
+  randomOffset: 49.7
+  yOffset: 0
+  useSurfaceNormal: 0
+  objectCluster: 0
+  minSlope: 0
+  maxSlope: 45
+  minHeight: 0
+  maxHeight: 0.634
+  tagMask: Terrain
+  noiseScale: 3.01
+  minNoiseStrength: 0.901
+  noiseMultiplier: 1.8
+  useInverseNoise: 0

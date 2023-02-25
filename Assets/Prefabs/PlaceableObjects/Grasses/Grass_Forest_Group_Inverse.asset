@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Grass_Forest_Group_Inverse
+  m_EditorClassIdentifier: 
+  objectType: 1
+  prefabs:
+  - {fileID: 1412102704176532, guid: 47e8d0902fd821444a4e4e21109ab0bb, type: 3}
+  - {fileID: 1483234169228078, guid: b2571d898a2602144803313cd8bdb8e1, type: 3}
+  - {fileID: 1180225653874402, guid: 9e5fbfd31a2fbcb4e8d3e52611e10405, type: 3}
+  - {fileID: 1855879320634112, guid: 44082d8c7fc74f34ab8a5061f1df0626, type: 3}
+  - {fileID: 1116865725492444, guid: 03f37ff37fcda4442917a093894e373e, type: 3}
+  - {fileID: 1448681271872492, guid: 0442c1d7370ff294ab85763fb756eb0a, type: 3}
+  - {fileID: 1315192961698024, guid: 9008fe090326ec84c8213702319ba494, type: 3}
+  minScale: 0.5
+  maxScale: 2
+  isStatic: 0
+  seed: 116
+  cellSize: 7.5
+  randomOffset: 50
+  yOffset: 0
+  useSurfaceNormal: 0
+  objectCluster: 0
+  minSlope: 0
+  maxSlope: 20
+  minHeight: 0
+  maxHeight: 0.5
+  tagMask: Terrain
+  noiseScale: 3.01
+  minNoiseStrength: 0.214
+  noiseMultiplier: 1.54
+  useInverseNoise: 1

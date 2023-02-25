@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Forest_Local_Volumetric_Fog_PO
+  m_EditorClassIdentifier: 
+  objectType: 0
+  prefabs:
+  - {fileID: 616034021444790159, guid: ca4741794f6142c44a283f8e4bc701e1, type: 3}
+  minScale: 0.5
+  maxScale: 2
+  isStatic: 1
+  seed: 116
+  cellSize: 100
+  randomOffset: 49.7
+  useSurfaceNormal: 0
+  minSlope: 0
+  maxSlope: 45
+  minHeight: 0.5
+  maxHeight: 0.6
+  tagMask: Terrain
+  useNoise: 1
+  noiseScale: 3.01
+  minNoiseStrength: 0.9
+  noiseMultiplier: 1.8

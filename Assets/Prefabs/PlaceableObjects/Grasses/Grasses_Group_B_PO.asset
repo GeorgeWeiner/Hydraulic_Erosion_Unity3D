@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Grasses_Group_B_PO
+  m_EditorClassIdentifier: 
+  objectType: 1
+  prefabs:
+  - {fileID: 1418039693081572, guid: d37d6502882dc324ab47c41454c10777, type: 3}
+  - {fileID: 1528814611390788, guid: d4f3862cfe61d244cbcbe9c7ebd95015, type: 3}
+  - {fileID: 1412102704176532, guid: 47e8d0902fd821444a4e4e21109ab0bb, type: 3}
+  - {fileID: 1483234169228078, guid: b2571d898a2602144803313cd8bdb8e1, type: 3}
+  - {fileID: 1180225653874402, guid: 9e5fbfd31a2fbcb4e8d3e52611e10405, type: 3}
+  - {fileID: 1855879320634112, guid: 44082d8c7fc74f34ab8a5061f1df0626, type: 3}
+  - {fileID: 1146539439171282, guid: 42321663c4e50c645912607ba531122d, type: 3}
+  - {fileID: 1719788538400428, guid: e4c0aedbb42331b4eb414ecc7d34b75d, type: 3}
+  minScale: 0.5
+  maxScale: 2
+  isStatic: 1
+  seed: 171
+  cellSize: 10
+  randomOffset: 49.7
+  yOffset: 0
+  useSurfaceNormal: 0
+  objectCluster: 0
+  minSlope: 0
+  maxSlope: 30
+  minHeight: 1
+  maxHeight: 0.731
+  tagMask: Terrain
+  noiseScale: 1
+  minNoiseStrength: 0.039
+  noiseMultiplier: 3
+  useInverseNoise: 1

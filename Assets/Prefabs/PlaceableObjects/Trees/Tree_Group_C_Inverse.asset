@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Tree_Group_C_Inverse
+  m_EditorClassIdentifier: 
+  objectType: 1
+  prefabs:
+  - {fileID: 1022070395406732, guid: 480bceb9cafea034c8e05b431e33f0df, type: 3}
+  - {fileID: 1698478162193560, guid: 8f02df739b9bd0c43879be9539ea9517, type: 3}
+  - {fileID: 1281981321586144, guid: 79b59000f73a61f429d7040b454702c8, type: 3}
+  - {fileID: 1146539439171282, guid: 42321663c4e50c645912607ba531122d, type: 3}
+  minScale: 0.5
+  maxScale: 2.5
+  isStatic: 1
+  seed: 116
+  cellSize: 75
+  randomOffset: 61.9
+  yOffset: 1
+  useSurfaceNormal: 1
+  objectCluster: 1
+  minSlope: 0
+  maxSlope: 15
+  minHeight: 0.247
+  maxHeight: 0.55
+  tagMask: Terrain
+  noiseScale: 3.01
+  minNoiseStrength: 0.641
+  noiseMultiplier: 1
+  useInverseNoise: 1

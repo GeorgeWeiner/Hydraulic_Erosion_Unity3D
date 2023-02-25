@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Grasses_Group_A_PO
+  m_EditorClassIdentifier: 
+  objectType: 1
+  prefabs:
+  - {fileID: 1604769897244150, guid: 9ba9517c69c0b2647ab5d560949340d9, type: 3}
+  minScale: 0.5
+  maxScale: 2
+  isStatic: 1
+  seed: 214
+  cellSize: 10
+  randomOffset: 49.7
+  yOffset: 0
+  useSurfaceNormal: 0
+  objectCluster: 0
+  minSlope: 0
+  maxSlope: 90
+  minHeight: 0.565
+  maxHeight: 1
+  tagMask: Terrain
+  noiseScale: 3.01
+  minNoiseStrength: 0.256
+  noiseMultiplier: 1.51
+  useInverseNoise: 0

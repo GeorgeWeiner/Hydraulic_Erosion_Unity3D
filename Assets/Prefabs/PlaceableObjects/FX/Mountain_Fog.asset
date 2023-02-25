@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Mountain_Fog
+  m_EditorClassIdentifier: 
+  objectType: 0
+  prefabs:
+  - {fileID: 7877780807782335949, guid: 0e3355622a07a1c40afdc916f2351a69, type: 3}
+  minScale: 0.1
+  maxScale: 0.3
+  isStatic: 1
+  seed: 393
+  cellSize: 15
+  randomOffset: 49.7
+  yOffset: 0
+  useSurfaceNormal: 0
+  objectCluster: 0
+  minSlope: 20.2
+  maxSlope: 90
+  minHeight: 0
+  maxHeight: 1
+  tagMask: Terrain
+  noiseScale: 3.01
+  minNoiseStrength: 0.941
+  noiseMultiplier: 1.8
+  useInverseNoise: 0

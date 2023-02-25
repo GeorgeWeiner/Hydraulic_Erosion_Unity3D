@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af93884b1787ee54480bc279a4a86931, type: 3}
+  m_Name: Debris_Group_B_PO
+  m_EditorClassIdentifier: 
+  objectType: 0
+  prefabs:
+  - {fileID: 1701236400512966, guid: 83e222183ffbcb545b302ee30e0716c1, type: 3}
+  - {fileID: 1807927578463326, guid: 1b19878aba3973b40b338d1edd5f81de, type: 3}
+  - {fileID: 1797831505333334, guid: 37553377f94fe1a4f9ba8e946874e984, type: 3}
+  - {fileID: 1583895712891168, guid: 38247a2e65caaf44c89e4502d24dbc1a, type: 3}
+  - {fileID: 1173533551920854, guid: 980c13404f101eb4485d631dc900d0d6, type: 3}
+  - {fileID: 1612141577258546, guid: e13dbbfc210a4304796ba45ad1781da3, type: 3}
+  - {fileID: 1984646113279384, guid: 83aa819179d4e7e4c9bf5677e3a061c0, type: 3}
+  - {fileID: 1971157842351540, guid: 16bb3a2c4257a4c419755e4b20faa4d4, type: 3}
+  - {fileID: 1784932983203808, guid: dcd8ce58fbb38134096e9fa0de730e8f, type: 3}
+  - {fileID: 1045435402852968, guid: 118d35aa2bce5504ea198474b10dd70a, type: 3}
+  minScale: 0.5
+  maxScale: 1
+  isStatic: 1
+  seed: 116
+  cellSize: 20
+  randomOffset: 49.7
+  yOffset: 0
+  useSurfaceNormal: 0
+  objectCluster: 0
+  minSlope: 0
+  maxSlope: 30
+  minHeight: 0.3
+  maxHeight: 0.55
+  tagMask: Terrain
+  noiseScale: 3.01
+  minNoiseStrength: 0.9
+  noiseMultiplier: 1.5
+  useInverseNoise: 0
